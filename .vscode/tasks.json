@@ -9,6 +9,12 @@
                 "kind": "build",
                 "isDefault": true
             },
+            "options": {
+                "env": {
+                    "JAVA_HOME": "/usr/local/sdkman/candidates/java/8.0.512.0+8.1-amzn",
+                    "PATH": "/usr/local/sdkman/candidates/java/8.0.512.0+8.1-amzn/bin:${env:PATH}"
+                }
+            },
             "presentation": {
                 "clear": true,
                 "panel": "shared"

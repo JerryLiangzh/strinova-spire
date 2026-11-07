@@ -8,7 +8,6 @@
     <artifactId>StrinovaSpire</artifactId>
     <version>0.2.2</version>
     <packaging>jar</packaging>
-
     <name>StrinovaSpire</name>
     <description>A Strinova-themed Mod of Slay the Spire</description>
 
